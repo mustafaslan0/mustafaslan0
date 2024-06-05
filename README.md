@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @mustafaslan0
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me mustafaslan0@mail.com.tr
 - instagram => @masln00
 - twitter => @masln00
 
