@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mustafaslan0
-- instagram => @masln00
-- twitter => @masln00
+- www.aslantech.engineer
 
 <!---
 mustafaslan0/mustafaslan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
